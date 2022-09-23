@@ -28,7 +28,7 @@ yarn start && yarn serve
 
 **Crawling data could take a while**
 
-```bash
+```ts
 const SLUGS = [
   "usb",
   "dtdd",
