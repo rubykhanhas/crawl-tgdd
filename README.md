@@ -8,12 +8,6 @@ yarn install
 npm install
 ```
 
-### Run app in development mode:
-
-```bash
-yarn dev
-```
-
 ### Build the app:
 
 ```bash
